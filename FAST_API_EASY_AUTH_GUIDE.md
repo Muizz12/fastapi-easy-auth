@@ -10,8 +10,8 @@ Since you have built this as a local, reusable library, you can install it direc
 
 Open your terminal, navigate to your new project's directory, and run:
 ```bash
-# This links the local package to your current virtual environment
-pip install -e /Users/moiz/RNprojects/fastapi-easy-auth
+# This installs your package directly from GitHub
+pip install git+https://github.com/Muizz12/fastapi-easy-auth.git
 ```
 
 ---

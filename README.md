@@ -9,8 +9,8 @@ This library was extracted to save you from re-writing the same authentication l
 Since this is a local package, you can install it in any of your new Python virtual environments by pointing pip to its directory:
 
 ```bash
-# From inside your new project's directory, run:
-pip install -e /Users/moiz/RNprojects/fastapi-easy-auth
+# This installs your package directly from GitHub
+pip install git+https://github.com/Muizz12/fastapi-easy-auth.git
 ```
 
 ---
